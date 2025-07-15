@@ -9,7 +9,7 @@
 
 ### 📚 Learning
  - Exploring **TypeScript** to improve code quality, type safety, and maintainability in React projects.
- - Learning **Tailwind CSS** for utility-first CSS and responsive design.
+ - Learning **Tailwind CSS** 
 
 ### 📬 Contact Me
 - Email: kecoanesa@gmail.com
