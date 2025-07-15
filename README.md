@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Welcome to my Github 
 
-<!--
-**anesaK/anesaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###👨🏻‍💻  About Me
+💡  I'm a final-year Computer Science student at the Faculty of Natural Sciences and Mathematics.
+🚀  I'm currently looking for an internship or a junior developer position to apply my skills in full-stack development and software engineering.
+💻  My experience includes FastAPI, React, PostgreSQL, Next.js, and general backend & frontend development.
+🎯  I'm passionate about building scalable applications, system design, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning
+ -Exploring **TypeScript** to improve code quality, type safety, and maintainability in React projects.
+ - Learning **Tailwind CSS** for utility-first CSS and responsive design.
+
+### 📬 Contact Me
+- Email: kecoanesa@gmail.com
