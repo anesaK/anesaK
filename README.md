@@ -1,7 +1,7 @@
 ## 👋 Welcome to my Github 
 
 
-### 👨🏻‍💻  About Me
+### 👩‍💻  About Me
 💡  I'm a final-year Computer Science student at the Faculty of Natural Sciences and Mathematics.
 
 🚀  I'm currently looking for an internship or a junior developer position to apply my skills in full-stack development and software engineering.
