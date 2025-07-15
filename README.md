@@ -3,8 +3,11 @@
 
 ### 👨🏻‍💻  About Me
 💡  I'm a final-year Computer Science student at the Faculty of Natural Sciences and Mathematics.
+
 🚀  I'm currently looking for an internship or a junior developer position to apply my skills in full-stack development and software engineering.
+
 💻  My experience includes FastAPI, React, PostgreSQL, Next.js, and general backend & frontend development.
+
 🎯  I'm passionate about building scalable applications, system design, and automation.
 
 ### 📚 Learning
