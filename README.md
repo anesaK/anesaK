@@ -10,6 +10,13 @@
 
 🎯  I'm passionate about building scalable applications, system design, and automation.
 
+### 🛠️ Technologies & Tools
+- **Frontend**: React, Next.js, HTML, CSS, JavaScript
+- **Backend**: FastAPI, Node.js, Express
+- **Databases**: PostgreSQL
+- **Version Control**: Git, GitHub
+-  **Other**: Figma
+
 ### 📚 Learning
  - Exploring **TypeScript** to improve code quality, type safety, and maintainability in React projects.
  - Learning **Tailwind CSS** 
